@@ -36,8 +36,8 @@ print(string1)
 name = "Mr. Sundar Pichai"
 age = 50
 
-print('hi! {name_of} You are {age_ge} year old'.format(name_of="Himanshu",age_ge = 50))
-# print(f "hi! " + name + " You are " + (str)age + " year old")
+print('hi! {name_of} You are {age_ge} year old'.format(name_of="Himanshu ",age_ge = 50))
+# print(f "hi! " + name + " You are " + (str)age + " year old ")
 
 
 print("\n\n")
