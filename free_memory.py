@@ -2,5 +2,8 @@
 
 def main():
     pass
+    print("Everything ok!")
 
+
+    
 main()
